@@ -1,0 +1,1 @@
+{"jobID":"f7fd2cb9-47b4-2033-3337-190da1c59815","spec":{"type":"policy","cause":{"Message":"","User":"Nikolaos Stamatopoulos \u003cnstamatopoulos1990@gmail.com\u003e"},"spec":{"podinfo:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
