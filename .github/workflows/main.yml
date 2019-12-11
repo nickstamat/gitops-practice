@@ -14,7 +14,7 @@ jobs:
           wget https://github.com/instrumenta/kubeval/releases/download/0.14.0/kubeval-linux-amd64.tar.gz
           echo "8b1b8c63df9ee3206113a3352e07474ea071610cfacf40a64db74c56e163f1e2 *kubeval-linux-amd64.tar.gz" | sha256sum -c -
           tar xzf kubeval-linux-amd64.tar.gz
-          chmod +x ./kubeval
+          chmod +x kubeval
 
       - name: Validate k8s manifests
         run: cat k8s/* | ./kubeval
