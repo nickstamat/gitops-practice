@@ -1,7 +1,7 @@
 # GitOps Practice
 
 ![GitHub Workflow Status (master)](https://img.shields.io/github/workflow/status/nickstamat/gitops-practice/ci/master)
-![Project Status: Unsupported](https://img.shields.io/badge/repo%20status-Unsupported-lightgrey.svg)
+![Repo Status: Concept](https://img.shields.io/badge/repo%20status-concept-lightgrey.svg)
 
 A couple of Kubernetes manifests, used for practice with GitOps.
 
