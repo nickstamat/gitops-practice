@@ -17,4 +17,4 @@ jobs:
           chmod +x ./kubeval
 
       - name: Validate k8s manifests
-        run: ./kubeval -d k8s/
+        run: pwd && ls -la && ls -la k8s && ./kubeval -d k8s
